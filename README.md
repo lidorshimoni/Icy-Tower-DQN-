@@ -1,7 +1,9 @@
-# Icy Tower AI
+# Icy Tower AI WIP
 By [Lidor Shimoni](https://github.com/lidorshimoni)
 
-An Icy Tower Game Built with PyGame and AI with NEAT genetics algorithm.
+An Icy Tower Game Built with PyGame and AI with Deep Q learning.
+
+# WIP!
 
 ## Features
 * Normal
