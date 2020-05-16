@@ -1,4 +1,4 @@
-# Icy Tower AI WIP
+# Icy Tower DQN
 By [Lidor Shimoni](https://github.com/lidorshimoni)
 
 An Icy Tower Game Built with PyGame and AI with Deep Q learning.
